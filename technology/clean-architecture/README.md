@@ -43,7 +43,8 @@
 - Unix: Clarity, composition
 - Conwoy's law : systems are constrained to communication structures of these organizations
 - **its harder to read code than write it**
-- The only form to go fast it's to go wellç
+- The only form to go fast it's to go well
+- Don't allow broken windows
 
 ## Job 
 
