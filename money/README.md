@@ -2,7 +2,7 @@
 
 - Compound interest
 - Passion and customer centric solutions
-
+//TODO0 great idea
 
 ## Entrepeneur
 
