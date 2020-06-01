@@ -191,3 +191,4 @@ Make our code as flexible as possible, a good way to stay flexible it's to write
   - Pride and prejudice
     * Code that you feel proud
     * Collective ownership
+
