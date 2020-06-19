@@ -81,3 +81,80 @@ Refactoring is part of our job as a software professionals is not neccesary to t
 - Large classes
 - Data classes : setter?
 - Comments: often a consequence of bad code
+
+## Building Test
+
+Refactoring is a valuable tool, but it can’t come alone. To do refactoring properly, I need a solid suite of tests to spot my inevitable mistakes. Even with automated refactoring tools, many of my refactorings will still need checking via a test suite.
+
+I don’t find this to be a disadvantage. Even without refactoring, writing good tests increases my effectiveness as a programmer. This was a surprise for me and is counterintuitive for most programmers—so it’s worth explaining why.
+
+### The value of self testing code
+
+Make sure all tests are fully automatic and that they check their own results.
+A suite of tests is a powerful bug detector that decapitates the time it takes to find bugs.
+
+Run tests frequently. Run those exercising the code you’re working on at least every few minutes; run all tests at least daily.
+
+Think of the boundary conditions under which things might go wrong and concentrate your tests there.
+
+
+## Catalog
+
+### Extract function
+
+I accepted this principle, I developed a habit of writing very small functions
+
+### Inline the function
+
+A function in which the body is as clear as the name, avoid too much indirection
+
+### Extract variable
+
+Add some context
+
+### Inline variable
+
+Inline when name dont communicate something useful
+
+### Change function declaration
+
+Functions represent the primary way we break a program down into parts. Function declarations represent how these parts fit together—effectively, they represent the joints in our software systems
+
+aka: Rename Function
+formerly: Rename Method
+formerly: Add Parameter
+formerly: Remove Parameter
+aka: Change Signature
+
+### Encapsulate variable
+
+### Rename variable
+Naming things well is the heart of clear programming
+
+### Introduce a parameter object
+
+I often see groups of data items that regularly travel together, appearing in function after function. Such a group is a data clump, and I like to replace it with a single data structure.
+
+### Combine functions into class
+
+### Split phase
+When I run into code that’s dealing with two different things, I look for a way to split it into separate modules
+
+## Encapsulation
+
+Perhaps the most important criteria to be used in decomposing modules is to identify secrets that modules should hide from the rest of the system
+
+## Moving features
+
+So far, the refactorings have been about creating, removing, and renaming program elements. Another important part of refactoring is moving elements between contexts
+
+## Organizing data
+
+Data structures play an important role in our programs, so it’s no great shock that I have a clutch of refactorings that focus on them
+
+## Simplifying conditional logic
+
+## Refactoring API's
+- Separate queries from API's
+
+## Inheritance
