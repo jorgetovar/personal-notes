@@ -1,5 +1,11 @@
 # Clean Architecture
 
+Entities are business objects
+Use case use the business objects and made application indepent abstractions
+Small is always better
+The principles are always the same
+Ports and adapters are an form of clean architecture
+
 ## Onion Architecture
 
 The key tenets of onion architecture
