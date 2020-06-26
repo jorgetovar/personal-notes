@@ -42,9 +42,6 @@ The design and architecture of a software system should get better with time, st
 - accept your responsibilities instead of having them assigned to you
 - change stimates -> stimates are not commintments
 
-
-
-
 ## Practices
 
 ### Technical practices
@@ -56,10 +53,26 @@ The design and architecture of a software system should get better with time, st
 
 ### Team practices
 
-- Continous integration
-- Methapor (ubiquotous language)
-- Sustanible peace
-- Collective ownership
+## Continous integration
+Continuous Integration meant that developers checked in their source code changes and merged them with the main line every “couple of hours.”
+ The build never be broke
+## Methapor (ubiquotous language)
+ Domain driven design: Ubiquitous Language
+ its a thread of consistency that interconnects the entire project during every phase of its lifecycle
+## Sustanible peace
+As I matured, I realized that my worst technical mistakes were made during those periods of frenetic late-night energy.
+That was the moment that I learned that a software project is a marathon, not a sprint, nor a sequence of sprints. In order to win, you must pace yourself
+
+Working overtime is not a way to show your dedication to your employer. What it shows is that you are a bad planner, that you agree to deadlines to which you shouldn’t agree, that you make promises you shouldn’t make, that you are a manipulable laborer and not a professional.
+
+You must sleep well
+## Collective ownership
+No one owns the code in an Agile project. The code is owned by the team as a whole. Any member of the team can check out and improve any module in the project at any time. The team owns the code collectively.
+
+Mantain your ability to work outside your specialty
+
+All progress in a module would stop when the author was not at work. No one else dared to work on something owned by someone else.
+
 
 ### Business practices
 
