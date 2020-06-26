@@ -46,10 +46,31 @@ The design and architecture of a software system should get better with time, st
 
 ### Technical practices
 
- Test driven development
-- Pairing
-- Simple desing
-- Refactoring
+## Test driven development
+
+The three rules of TDD
+- do not write any production code if there is not a failing test
+- do not write more of a test than is sufficient to fail
+- do not write more production code than is sufficient to pass the current failing test
+
+When you follow the Three Rules, the tests you end up writing become the code examples for the whole system
+Test coverage is a team metric
+hard to test is equal a some kind of coupling
+Good test enable refactoring and better design , and remove the fear of cleaning, if nobody cleans the code eventually the code willl become such a horrible masss of unmaintainable spaguetti
+
+## Pairing
+he goal is to spread and exchange knowledge, not concentrate it
+Incress collaboration and training
+## Simple desing
+- Pass all the test
+- Reveal the intent
+- Remove the duplication
+- Decrease elements
+
+## Refactoring
+Improve the structure of the code code without altering the behavior
+Red, Green, Refactor
+Refactor is part of our job
 
 ### Team practices
 
