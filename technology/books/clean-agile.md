@@ -133,3 +133,27 @@ Return of investment
 ## Small releases
 The practice of Small Releases suggests that a development team should release their software as often as possible
 
+### Values 
+
+## courage
+## feedback
+## simplicity
+## comunication
+
+### Software craftmanship
+Agile coaches as another layer of management: people telling them what to do instead of helping them to get better at what they do.
+
+Companies are still not mature enough to understand that technical problems are in fact business problems.
+
+- Not only working software, but also well-crafted software
+- Not only responding to change, but also steadily adding value
+- Not only individuals and interactions, but also a community of professionals
+- Not only customer collaboration, but also productive partnerships
+
+Principles without practices are empty shells, whereas practices without principles tend to be implemented by rote, without judgement. Principles guide practices. Practices instantiate principles. They go hand in hand.
+
+Craftsmanship also promotes Clean Code and SOLID principles. It promotes small commits, small releases, and Continuous Delivery. It promotes modularity in software design and any type of automation that removes manual and repetitive work. And it promotes any practices that improve productivity, reduce risk, and help to produce valuable, robust, and flexible software.
+
+## Focus on the value not the practice
+
+A profession gives meaning to our lives
