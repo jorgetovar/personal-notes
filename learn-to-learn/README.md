@@ -14,7 +14,7 @@ Performing is preparing: study, practice and develop design sensibilities you ca
 - Recall
 - Focus
 - Explanatory questions and simple analogies
-- Eat ypur frogs first
+- Eat your frogs first
 - Make a mental constrast: picture your dreams
 - Pomodoro techniques
 - Top-down Context and bottom-up are chunks
