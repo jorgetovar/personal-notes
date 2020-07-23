@@ -11,4 +11,17 @@ The “synchronized” keyword there should draw your attention. That’s a Java
 - Self denied attacks : Share nothing architectures, Protect shared resources
 - Scaling effects: avoid point-to-point communications
 - Unbalanced capacities
+
 ## Stability patterns
+- Timeouts
+- Circuit Breaker
+- Bulkheads
+- Steady State
+- Fail Fast
+- Let It Crash
+- Handshaking
+- Test Harnesses
+- Decoupling Middleware
+- Shed Load
+- Create Back Pressure
+- Governor
