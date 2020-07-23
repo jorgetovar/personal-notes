@@ -24,3 +24,4 @@ The key tenets of onion architecture
 - Architecture must show intent!
 - Isolate things and defer decisions
 - Acceptance test must be finished in the middle of the sprint
+
