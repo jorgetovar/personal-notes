@@ -48,3 +48,25 @@ Follow your disciplines under pressure... Add more test more refactors and more 
 Estimation are distributions and always meet the commitment
 Programmers must understand businesses goals
 Products are better than projects
+Test behaviors not classes
+
+# Lean Software
+
+- Remove code .. negative value: culture and mindset
+- No code is the best code
+- Domain driven design code starts with names but is more
+- 10x developer if you make 10 people better
+- Technical debt : Invest time in writing test and automation tools not debugging
+- Create software as a sustainable code not speed and rot
+
+# Programers oath
+
+- Dont ship harmful code
+- Do your best possible work
+- Make a repetible and quick form of proof of your software delivery correctness
+- Improve teams productivity
+- Cover each other 
+- Provide real stimations
+- Make frequent small releases
+- I will fearless improve my creations at every opportunity
+- I will never stop learning and improve my craft
