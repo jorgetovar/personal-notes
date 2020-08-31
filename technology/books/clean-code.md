@@ -70,3 +70,19 @@ Test behaviors not classes
 - Make frequent small releases
 - I will fearless improve my creations at every opportunity
 - I will never stop learning and improve my craft
+
+# Peopleware
+
+- Productivity = Benefit /cost
+- Creative work needs time to generate the best outcome
+- Make quality set by the buyer rather than the builder
+- People under pressure don't work better they work faster
+
+# Startups
+
+- Big will not beat small anymore. The fastest will be beating the slow
+- A complex system that works is invariably found to have evolved from a simple system that work
+- Startups provide great autonomy and make you to take significant decisions
+
+
+
