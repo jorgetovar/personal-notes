@@ -33,6 +33,14 @@ How to write hard to test code:
 - Lenguage decision is based on Ecosystem, experience, performance and expresiveness, feedback loop
 - Working code is not enough you must reduce complexity
 - Clean boundaries and adapter pattern
+- Tests enable all the -ilities, because tests enable change.
+- Motivation: autonomy, mastery, purpose
+- Test should de FIRST
+    * Fast
+    * Independent
+    * Repeteable
+    * Self validating
+    * Timely
 
 # Enterpreurs
  - Magic number
