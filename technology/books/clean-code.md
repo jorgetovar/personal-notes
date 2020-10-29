@@ -61,3 +61,105 @@ How to write hard to test code:
 - Rollback, canary release and feature flags are necessary to embrace continous integration
 - Metrics... Business metrics. User, application and availability
 - Acceptance test and loose coupling are important
+
+## Startups are about people 
+- Choosing the right people is more important  than choosing the right product, marketing
+- Two founders is usually the best bet for success -10 years-
+- In the beginning hire full stack people
+- Participate in hackathons and competitions
+- Make talsk, blog post and open source code
+
+### Hiring 
+- Get thing done people
+- Culture is important, deliver wow through service
+- ask the candidate to teach you something
+- Pair programming with candidates
+- Find activities that push you beyond your capabilities
+
+## Study
+- Set concrete measurable logs, practice and teach
+- Be a builder
+- Share what you learn
+- Mentoring and documentation
+
+## Programmers oath
+I Promise that, to the best of my ability and judgement:
+
+- I will not produce harmful code.
+- The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate.
+- I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should.
+- I will make frequent, small, releases so that I do not impede the progress of others.
+- I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
+- I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity.
+- I will continuously ensure that others can cover for me, and that I can cover for them.
+- I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
+- I will never stop learning and improving my craft.
+
+##  Effective engineers
+Adopt the right mindset:
+- **Focus on High Leverage Activities**
+- Leverage = Impact Produced / Time Invested
+- Use Leverage as Your Yardstick for Effectiveness 
+- They are the people who get things done. Effective Engineers produce results.
+- Talk to people. Become good at telling stories.
+- **Optimize for Learning**
+- Seek work enviroments conducive to learning :
+    * Fast Growth: Companies where #problems >> #resources. Opportunity to choose high impact work.
+- Read code written by brilliant engineers.
+- Always be learning. Invest in skills that are in high demand
+- Priorizate Regularly
+- Don't try to remember stuff. Brain is bad at remembering. It's rather good at processing
+- Ask yourself regularly: Is this the most important thing I should be working on?
+- Limit the amount of Work in Progress. Cost of context switching is high.
+- **Invest in Iteration Speed**
+- Continous deployment is high leverage
+- Move fast to learn fast
+- Invest time  in saving tools: compilation, testing, hot-reload
+- High test coverage to reduce build and site breakages
+- Master Your Programming Environment
+- **Measure what you want to Improve**
+- If you can't measure it, you can't improve it.
+- Good metric.
+    * Helps you focus on right things.
+    * Performance ratcheting: Any change should strictly improve the metric.
+- Metric you choose influences your decisions and behavior.
+- Instrumenting everything to understand was going on
+- Internalize useful numbers
+- **Validate your ideas early and often.**
+- Not validating early leads to wasted efforts.
+- Approach problem iteratively.
+- **Improve project estimation skills.**
+- Communication overhead is significant.
+- Additional hours hurt productivity. Causes burnout.
+- Allow buffer room for the unknown.
+- **Balance Quality with Pragmatism**
+- High code quality. Code readability.
+- Establish sustainable code review process.
+    * Catch bugs and design problems early.
+    * Sharing working knowledge of the codebase.
+    * Increases long term agility. Easier to understand, quicker to modify.
+- Manage complexity through Abstraction
+- Right abstractions make huge difference.
+- *Automate Testing*
+- Unit test cases and some integration testing provide a scalable way of managing growing codebase.
+- Tests also allow engineers to make changes, especially large refactorings, with significantly higher confidence.
+- *Repay Technical Debt*
+- Technical debt refers to all the deferred work that’s necessary to improve the health and quality of the codebase and that would slow us down if left unaddressed.
+- **Reduce Operational Complexity**
+- fail-fast to surface issues immediately.
+- **Invest in your team's Growth**
+- Invest in onboarding.
+- your effectiveness will be measured not by your individual contributions but by your impact on the people around you
+- Keep bus factor more than one.
+- Shared ownership removes isolated silos of information.
+- Invest in your onboarding
+- Dont rewrite the legacy code from scrath is a big mistake
+- Get familiar with UNIX
+
+
+Key Takeaways
+- **The faster you can iterate**, the more you can learn. Conversely, when you move too slowly trying to avoid mistakes, you lose opportunities.
+- **Invest in tooling**. Faster compile times, faster deployment cycles, and faster turnaround times for development all providetime-saving benefits that compound the more you use them.
+- **Optimize your debugging workflow**. Don’t underestimate how much time gets spent validating that your code works. Invest enough time to shorten those workflows.
+- **Master the fundamentals of your craft**. Get comfortable andefficient with the development environment that you use on adaily basis. This will pay off dividends throughout your career.
+- **Take a holistic view of your iteration loop**. Don’t ignore any organizational and team-related bottlenecks that may be within your circle of influence.
