@@ -34,3 +34,6 @@ Rules of bad studying
 - Neglecting to read the textbook before you start working problems
 - Not checking with your instructors or classmates to clear up points of discussions
 - Not getting enough spleep
+
+
+- Review the topic. Test yourself
