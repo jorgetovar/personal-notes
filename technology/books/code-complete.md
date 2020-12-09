@@ -10,3 +10,5 @@ Software complexity is one of the major topics of our area
 - Incidental complexity
 
 we should try to organize our programs in such a way that we can safely focus on one part of it at a time. 
+
+ Clever designs are usually hard to understand. Instead make "simple" and "easy-to-understand" designs
