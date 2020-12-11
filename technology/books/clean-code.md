@@ -236,5 +236,8 @@ Test behaviors not classes
 - A complex system that works is invariably found to have evolved from a simple system that work
 - Startups provide great autonomy and make you to take significant decisions
 - Purpose, Mastery, Autonomy
+- Be a maker
+- Share your ideas
+- Work for an stablished company, then an startup and finally start your own company
 
 

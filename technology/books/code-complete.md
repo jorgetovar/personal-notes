@@ -12,3 +12,14 @@ Software complexity is one of the major topics of our area
 we should try to organize our programs in such a way that we can safely focus on one part of it at a time. 
 
  Clever designs are usually hard to understand. Instead make "simple" and "easy-to-understand" designs
+
+ - Ease of maintance
+ - Loose coupling
+ - Extensability
+ - Reusability
+ - Portability
+ - Stratification
+
+ Abstraction is the ability to engage with a concept while safely ignoring some of its details
+
+ From a complexity point of view, the principal benefit of abstraction is that it allows you to ignore irrelevant details
