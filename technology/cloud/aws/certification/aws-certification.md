@@ -71,4 +71,22 @@ Configure boostrap scripts in user-data 3. Configuration
 #!/bin/bash
 commands
 
+You can create ec2-instances templates
+
+#### Customized AMI's [Amazon Machine Images]
+
+They allow you to reduce boot up time, with OS patches and software pre-installed
+Launch templates can have more than one version
+Are region specific and are stored in s3
+
+#### Important facts on EC2
+
+- Tags are important
+- You can allow prevention termination
+- Stop instance and change instance type
+- VM machines youre responsible for licences
+- Timeouts are SG restrictions
+- Security groups can be changed in Runtime
+- You get cherges for storaged attached to instances
+
 aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 782913492063.dkr.ecr.us-east-1.amazonaws.com

@@ -239,5 +239,14 @@ Test behaviors not classes
 - Be a maker
 - Share your ideas
 - Work for an stablished company, then an startup and finally start your own company
+- Open source, Services, Distribution, Information, Money
 
 
+# Head first 
+- Encapsulte what varies
+- Favor composition over inheritance
+- Program to interfaces not implementations
+- Strive for loosely coupled design between objects that interact
+- Classes should be open for extension closed for modification
+- Depend on abstractions, do not depend on concrete classes
+- A class should have only one reason to change
