@@ -39,3 +39,12 @@ Managers job include
 My job is help the team to make the best decisions
 
 Communicate clearly the priority and make room to the team to execute
+
+
+# Lean startups
+
+- Create, Measure, Adopt
+- Production with MVP
+- Cohorte analysis 
+- Feedback must indicate if our product have improvements
+- Growth is a OKR
