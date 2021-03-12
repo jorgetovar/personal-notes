@@ -1,3 +1,17 @@
+# Hello Startup
+
+- Leverage
+- Capital 
+- PermissionLess
+- No Marginal Cost
+- Network effect
+- Judgement [Long term mindset]
+
+## Naval
+- You will get ruch by giving society what it wants but doues not yet know how to get at scale
+- All the returns in life, wheather in whealt, relantionships or knewledge come from compound interest
+- learn foundational skills, to improve your judgement 
+
 ## Leadership
 
 - The golden circle
