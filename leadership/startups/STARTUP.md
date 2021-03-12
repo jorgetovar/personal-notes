@@ -1,5 +1,7 @@
 # Hello Startup
 
+Focusing in Big Goals
+
 - Leverage
 - Capital 
 - PermissionLess
@@ -7,10 +9,37 @@
 - Network effect
 - Judgement [Long term mindset]
 
+- Keep a idea journal
+- The most sucessful people I know make a delibarate effor yo regularly seek out feedback
+- Ideas are worthless and execution is everything
+
+- Validate the problem
+ * Frequency
+ * Density
+ * Pain
+
+- to make great things you need free time and a free mind
+
 ## Naval
 - You will get ruch by giving society what it wants but doues not yet know how to get at scale
 - All the returns in life, wheather in whealt, relantionships or knewledge come from compound interest
 - learn foundational skills, to improve your judgement 
+
+## Growth 
+- Look up for your key metric
+
+## Startups 
+
+- Pick good cofounders
+- Launch fast
+- Let your idea evolve
+- Understand your users *
+- Offer surplisingly good customer service
+- You make what you measure
+- Spend little
+- Avoid distractions
+- Dint get demoralized
+
 
 ## Leadership
 
