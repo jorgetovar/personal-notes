@@ -91,3 +91,50 @@ Communicate clearly the priority and make room to the team to execute
 - Cohorte analysis 
 - Feedback must indicate if our product have improvements
 - Growth is a OKR
+
+
+- Stay small as logn as you can
+- the iceber Secret , 10% of the the total size its the user interface
+- Make the users extremely happy, focus!
+- You need co-founders to share the work load
+- You need T shape people, generalist
+- Smart and get things DONE
+- Look for good communication skills
+- Provide amazing customer service
+- You can recruit people by sharing valuable content and teaching
+- refeerals are important in the early state of startups
+- People are the most important part of a startup
+
+
+## design 
+- Is about people and goals
+- design for personas [Roles, ages]
+- Never lose users work
+- Limit the amount of features of your app - less simplier
+- Bring small number if users, recording, wath the recording, decide what actions to take basd on your learnings, repeat every month
+- Design is an essentials skills because the user interface is the product
+- start reusing existing designs, writing user stories, and design for personas
+- copywiriting
+- layout
+- typography
+- contrast 
+- repetition 
+- colors
+
+- Simple and natural language
+- make clear exits
+- speak the user languages
+- minimeze memory load
+- use constructive error calls
+- give feedback
+- thrive for consistency
+
+
+
+- MVP
+- Identify your riskiest most central assumptions
+- phrase the assumption as a testable hypothesis
+- Build the smallest experiment that test the hypothesis
+- analize the results
+
+## - Metrics to track [Acquisition, Activation, retention, referral, revenue, The magic number]
